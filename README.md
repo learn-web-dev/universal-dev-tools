@@ -1,14 +1,15 @@
 # universal-dev-tools
-reviews and requests of dev tools that are usable regardless of acuity or dexterity
+Reviews and requests of dev tools that are usable (and ideally used identically by all developers) regardless of acuity or dexterity.
 
-tools that work well with audible output tech (screen readers are a common example; Amazon Echo and other digital personal assistants are another)
+Alternatives to visual output such as screens; audible and braille output tech are 2 examples, with screen readers being most common; Amazon Echo and other digital personal assistants are another audible tech.
 
-alternatives to mice
+Alternatives to mice
 
 ## common dev needs  
-- traverse file systems (e.g. changing directories)  
-- crud file and directory names and trees  
+- traverse file systems (e.g. change directories)  
+- crud file and directory names and trees (e.g. make a new directory)  
 - manage file and directory permissions  
 - run scripts  
+-
 
-## compatible with 
+## compatible with existing screen readers
