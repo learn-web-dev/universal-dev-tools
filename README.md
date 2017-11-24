@@ -19,3 +19,4 @@ reviews and requests of dev tools that are usable (and ideally used identically)
 -  
 
 ## strengths and weaknesses of IDEs and screen readers that currently work together  
+- Terminal
